@@ -19,15 +19,6 @@ The model identifies how different features such as **location, bedrooms, bathro
 
 ---
 
-VOIS_AICTE_Oct2025_SaumyaRaj/
-├── AirBNB_Source_Code.ipynb # Main Jupyter Notebook for data analysis & modeling
-├── Getting_Started_with_python.pdf 
-├── data_visualization_vois.pdf
-├── README.md # Project documentation (this file)
-
-
----
-
 ## ⚙️ Requirements & Setup  
 
 ### Prerequisites  
